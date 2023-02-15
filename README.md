@@ -1,1 +1,4 @@
-# js-anotation
+# Variables
+```
+let name = "Almeida";
+```
